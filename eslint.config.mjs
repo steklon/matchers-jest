@@ -34,7 +34,6 @@ export default [
             'no-unused-vars': 'off', // не испоьзуемые переменные
             'no-console': 'off', // console.log
             'no-var': 'error',
-            'constructor-super': 'off',
         },
     },
     {
